@@ -11,4 +11,6 @@ End-to-end ML project from EDA to model deployment.
 
 ## Data structure
 
-## Data structure
+## Methodology
+
+
