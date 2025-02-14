@@ -8,7 +8,7 @@ End-to-end ML project from EDA to model deployment.
 * [Recommendations](https://github.com/Azidalus/ML-project#Recommendations)
 
 ## Project background
-... is a retail company. They are interested in demand forecasting to have appropriate levels of products in stock. This project 
+... is a retail company. They are interested in demand forecasting to have appropriate levels of products in stock. This project aims to develop an application with demand forecasting models for managers to use.
 
 ## Data structure
 
